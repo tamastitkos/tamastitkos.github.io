@@ -29,8 +29,8 @@ Office: III/16
 ## Awards, Scholarships
 
 - Alexits Prize of the Hungarian Academy of Sciences (2021)  
-- János Bolyai Research Fellowship (2018)  
 - Bolyai+ Scholarship - New National Excellence Programme (2018,2019,2020)  
+- János Bolyai Research Fellowship (2018)  
 - Youth Award of the Hungarian Academy of Sciences (2018)  
 - NRDI Postdoctoral Fellowship (2018)  
 <br>
@@ -51,57 +51,38 @@ Office: III/16
    Journal of Mathematical Analysis and Applications, 2023  
    DOI: [https://doi.org/10.1016/j.jmaa.2022.126955](https://doi.org/10.1016/j.jmaa.2022.126955) (with Gy.P. Gehér, J. Pitrik, and D.Virosztek)
 
-3. Isometric rigidity of Wasserstein tori and spheres  
-   Mathematika, 2023  
-   DOI: [https://doi.org/10.1112/mtk.12174](https://doi.org/10.1112/mtk.12174) (with Gy.P. Gehér, and D. Virosztek)
-
-4. Isometric rigidity of Wasserstein spaces: the graph metric case  
+3. Isometric rigidity of Wasserstein spaces: the graph metric case  
    Proceedings of the American Mathematical Society, 2022  
    DOI: [https://doi.org/10.1090/proc/15977](https://doi.org/10.1090/proc/15977)  (with G. Kiss)
 
-5. The isometry group of Wasserstein spaces: the Hilbertian case  
+4. The isometry group of Wasserstein spaces: the Hilbertian case  
    Journal of the London Mathematical Society, 2022  
    DOI: [https://doi.org/10.1112/jlms.12676](https://doi.org/10.1112/jlms.12676)  (with Gy.P. Gehér, and D. Virosztek)
 
-6. Isometric study of Wasserstein spaces - the real line  
+5. Isometric study of Wasserstein spaces - the real line  
    Transactions of the American Mathematical Society, 2020  
    DOI: [https://doi.org/10.1090/tran/8113](https://doi.org/10.1090/tran/8113) (with Gy.P. Gehér, and D. Virosztek)
 
-7. Operators on anti-dual pairs: Generalized Krein-von Neumann extension  
+6. Operators on anti-dual pairs: Generalized Krein-von Neumann extension  
    Mathematische Nachrichten, 2020  
    DOI: [https://doi.org/10.1002/mana.201800431](https://doi.org/10.1002/mana.201800431) (with Zs. Tarcsay)
 
-8. Operators on anti-dual pairs: Self-adjoint extensions and the strong Parrott theorem  
-   Canadian Mathematical Bulletin, 2020  
-   DOI: [https://doi.org/10.4153/S0008439520000065](https://doi.org/10.4153/S0008439520000065)
-
-9. On isometric embeddings of Wasserstein spaces - the discrete case  
-   Journal of Mathematical Analysis and Applications, 2019  
-   DOI: [https://doi.org/10.1016/j.jmaa.2019.123435](https://doi.org/10.1016/j.jmaa.2019.123435) (with Gy.P. Gehér, and D. Virosztek)
-
-10. Arlinskii's iteration and its applications  
+7. Arlinskii's iteration and its applications  
     Proceedings of the Edinburgh Mathematical Society, 2019  
     DOI: [https://doi.org/10.1017/S0013091518000287](https://doi.org/10.1017/S0013091518000287)
 
-11. A characterisation of isometries with respect to the Lévy-Prokhorov metric  
+8. A characterisation of isometries with respect to the Lévy-Prokhorov metric  
     Annali della Scuola Normale Superiore di Pisa - Classe di Scienze, 2019  
     DOI: [https://doi.org/10.2422/2036-2145.201702_011)](https://doi.org/10.2422/2036-2145.201702_011) (with Gy.P. Gehér)
 
-12. The singular part as fixed point  
-    The American Mathematical Monthly, 2018  
-    DOI: [https://doi.org/10.1080/00029890.2018.1393219](https://doi.org/10.1080/00029890.2018.1393219)
-
-13. A Simple Proof of the Lebesgue Decomposition Theorem  
+9. A Simple Proof of the Lebesgue Decomposition Theorem  
     The American Mathematical Monthly, Taylor&Francis, 2015  
     DOI: [https://doi.org/10.4169/amer.math.monthly.122.8.793](https://doi.org/10.4169/amer.math.monthly.122.8.793)
 
-14. A Radon-Nikodym type theorem for forms  
+10. A Radon-Nikodym type theorem for forms  
     Positivity, 2013  
     DOI: [https://doi.org/10.1007/s11117-012-0209-1](https://doi.org/10.1007/s11117-012-0209-1) (with Z. Sebestyén)
 
-15. Ando's theorem for nonnegative forms  
-    Positivity, 2012  
-    DOI: [https://doi.org/10.1007/s11117-011-0133-9](https://doi.org/10.1007/s11117-011-0133-9)
 <br>
 
 
