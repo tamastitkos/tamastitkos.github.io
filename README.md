@@ -13,7 +13,7 @@ Office: Salt House, S229a
 
 and
 
-Alfréd Rényi Institute of Mathematics  
+HUN-REN Alfréd Rényi Institute of Mathematics  
 H-1053 Budapest, Reáltanoda utca 13-15.  
 E-mail: titkos@renyi.hu  
 Office: III/16  
@@ -148,37 +148,38 @@ Doctoral School of Mathematics, Eötvös Loránd University
 
 ## Participation in scientific grants/projects
 
-- 2016/02-2017/08 K104206 (National Research, Development and Innovation Office), "Research and application of matrices"     
+- 2016/02-2017/08     
+K104206 (National Research, Development and Innovation Office), "Research and application of matrices"     
 (Principal Investigator: Máté Matolcsi)
 
-- 2018/09--2019/06
-ÚNKP-18-4-BGE-3 (Bolyai+ Scholarship for Young Higher Education Teachers and Researchers, "Investigation of shorted parts"
+- 2018/09--2019/06      
+ÚNKP-18-4-BGE-3 (Bolyai+ Scholarship for Young Higher Education Teachers and Researchers), "Investigation of shorted parts"
 
-- 2018/09--2021/08
+- 2018/09--2021/08      
 PD128374 (National Research, Development and Innovation Office), "Extension- and preserver problems"
 
-- 2019/04--2020/08
+- 2019/04--2020/08     
 K115383 (National Research, Development and Innovation Office), "Operators, matrices and their structures"     
 (Principal Investigator: Lajos Molnár)
 
-- 2018/09--2021/08
-BO/00137/18/3, MTA János Bolyai Research Scholarship, "Investigation of spaces of Borel probability measures and their isometry group"
+- 2018/09--2021/08      
+BO/00137/18/3 (MTA János Bolyai Research Scholarship), "Investigation of spaces of Borel probability measures and their isometry group"
 
-- 2019/09--2020/06
-ÚNKP-19-4-BGE-1 (Bolyai+ Scholarship for Young Higher Education Teachers and Researchers, "Embeddings of Wasserstein spaces"
+- 2019/09--2020/06      
+ÚNKP-19-4-BGE-1 (Bolyai+ Scholarship for Young Higher Education Teachers and Researchers), "Embeddings of Wasserstein spaces"
 
-- 2020/12--2024/11
+- 2020/12--2024/11     
 K134944 (National Research, Development and Innovation Office), "Preservers on structures of operators and measures"     
 (Principal Investigator: Lajos Molnár)
 
-- 2020/09--2021/08
+- 2020/09--2021/08    
 ÚNKP-1-4-BGE-3 (Bolyai+ Scholarship for Young Higher Education Teachers and Researchers, "Optimal transport on graphs"
 
-- 2021/09--2026/08
-LP2021-15/2021, MTA RI "Momentum" Optimal Transport and Quantum Information Geometry Research Group      
+- 2021/09--2026/08      
+LP2021-15/2021 (Momentum Program of the HAS), MTA RI "Momentum" Optimal Transport and Quantum Information Geometry Research Group      
 (Principal Investigator: Dániel Virosztek)
 
-- 2021/09--2023/08
+- 2021/09--2023/08     
 Renyi-ELKH-sa-70-2021 (Eötvös Loránd Research Network), "Transport distances on classical and quantum structures"
 <br>
 
