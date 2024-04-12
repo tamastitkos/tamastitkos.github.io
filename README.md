@@ -28,7 +28,9 @@ Office: III/16
 
 ## Awards, Scholarships
 
-- Alexits Prize of the Hungarian Academy of Sciences (2021)  
+- Bolyai Memorial Certificate for “Excellent” Research Performance (2022)
+- Alexits Prize of the Hungarian Academy of Sciences (2021)
+- BBU Science Award (2020)
 - Bolyai+ Scholarship - New National Excellence Programme (2018,2019,2020)  
 - János Bolyai Research Fellowship (2018)  
 - Youth Award of the Hungarian Academy of Sciences (2018)  
@@ -82,7 +84,6 @@ Office: III/16
 10. A Radon-Nikodym type theorem for forms  
     Positivity, 2013  
     DOI: [https://doi.org/10.1007/s11117-012-0209-1](https://doi.org/10.1007/s11117-012-0209-1) (with Z. Sebestyén)
-
 <br>
 
 
@@ -145,6 +146,44 @@ Doctoral School of Mathematics, Eötvös Loránd University
 <br>
 
 
+## Participation in scientific grants/projects
+
+- 2016/02-2017/08 K104206 (National Research, Development and Innovation Office), "Research and application of matrices"     
+(Principal Investigator: Máté Matolcsi)
+
+- 2018/09--2019/06
+ÚNKP-18-4-BGE-3 (Bolyai+ Scholarship for Young Higher Education Teachers and Researchers, "Investigation of shorted parts"
+
+- 2018/09--2021/08
+PD128374 (National Research, Development and Innovation Office), "Extension- and preserver problems"
+
+- 2019/04--2020/08
+K115383 (National Research, Development and Innovation Office), "Operators, matrices and their structures"     
+(Principal Investigator: Lajos Molnár)
+
+- 2018/09--2021/08
+BO/00137/18/3, MTA János Bolyai Research Scholarship, "Investigation of spaces of Borel probability measures and their isometry group"
+
+- 2019/09--2020/06
+ÚNKP-19-4-BGE-1 (Bolyai+ Scholarship for Young Higher Education Teachers and Researchers, "Embeddings of Wasserstein spaces"
+
+- 2020/12--2024/11
+K134944 (National Research, Development and Innovation Office), "Preservers on structures of operators and measures"     
+(Principal Investigator: Lajos Molnár)
+
+- 2020/09--2021/08
+ÚNKP-1-4-BGE-3 (Bolyai+ Scholarship for Young Higher Education Teachers and Researchers, "Optimal transport on graphs"
+
+- 2021/09--2026/08
+LP2021-15/2021, MTA RI "Momentum" Optimal Transport and Quantum Information Geometry Research Group      
+(Principal Investigator: Dániel Virosztek)
+
+- 2021/09--2023/08
+Renyi-ELKH-sa-70-2021 (Eötvös Loránd Research Network), "Transport distances on classical and quantum structures"
+<br>
+
+
+
 ## Memberships
 
 - Public body of the Hungarian Academy of Sciences  
@@ -184,3 +223,13 @@ Doctoral School of Mathematics, Eötvös Loránd University
 
 - Preserver Weekend in Szeged, 2019  
 (with L. Molnár)
+
+
+## A Book (soon to be published)
+Jan Maas, Simone Rademacher, Tamás Titkos, Dániel Virosztek (Eds.)      
+Optimal Transport on Quantum Structures     
+Part of the book series: Bolyai Society Mathematical Studies (BSMS, volume 29)     
+
+      
+<img src="https://www.renyi.hu/%7Etitkos/qot-book.jpg" alt="TT" width="200">
+<br>
