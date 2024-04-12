@@ -1,4 +1,4 @@
-#
+# -
 <img src="https://www.renyi.hu/%7Etitkos/3c.jpg" alt="TT" width="500">
 
 # Tamás TITKOS
